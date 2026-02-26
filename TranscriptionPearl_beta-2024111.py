@@ -315,10 +315,10 @@ class App(TkinterDnD.Tk):
             "claude-3-opus-20240229",
             "claude-3-sonnet-20240229",
             "claude-3-haiku-20240307",
-            "gemini-1.5-flash-001",
-            "gemini-1.5-flash-002",
-            "gemini-1.5-pro-001",
-            "gemini-1.5-pro-002"
+            "gemini-2.0-flash",
+            "gemini-2.0-pro",
+            "gemini-1.5-pro",
+            "gemini-1.5-flash"
         ]
 
         # Check if settings file exists and load it
